@@ -2,4 +2,4 @@
 
 Tareas a realizar:
 
-(Consignas)[https://github.com/vicecers/libro-git/blob/master/sesion2.md]
+[Consignas](https://github.com/vicecers/libro-git/blob/master/sesion2.md)
